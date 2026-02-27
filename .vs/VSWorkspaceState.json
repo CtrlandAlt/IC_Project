@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src"
   ],
-  "SelectedNode": "\\uv.lock",
+  "SelectedNode": "\\src\\Main.ipynb",
   "PreviewInSolutionExplorer": false
 }
